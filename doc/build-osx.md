@@ -29,7 +29,7 @@ Build Wolfcoin Core
 
 1. Clone the Wolfcoin Core source code and cd into `wolfcoin`
 
-        git clone https://github.com/wolfcoinpay/wolfcoin
+        git clone https://github.com/WolfpackBOT/wolfcoin
         cd wolfcoin
 
 2.  Build Wolfcoin Core:
